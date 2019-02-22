@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/funnycom",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
